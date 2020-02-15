@@ -1,13 +1,13 @@
 library(magrittr)
 library(dplyr)   
-fifa15 <- read.csv("players_15.csv")
-fifa16 <- read.csv("players_16.csv")
-fifa17 <- read.csv("players_17.csv")
-fifa18 <- read.csv("players_18.csv")
-fifa19 <- read.csv("players_19.csv")
-fifa20 <- read.csv("players_20.csv")
-club_id <- read.csv("club_id.csv")
-teams_leagues <- read.csv("teams_and_leagues.csv")
+fifa15 <- read.csv("data/players_15.csv")
+fifa16 <- read.csv("data/players_16.csv")
+fifa17 <- read.csv("data/players_17.csv")
+fifa18 <- read.csv("data/players_18.csv")
+fifa19 <- read.csv("data/players_19.csv")
+fifa20 <- read.csv("data/players_20.csv")
+club_id <- read.csv("data/club_id.csv")
+teams_leagues <- read.csv("data/teams_and_leagues.csv")
 total <- rbind(fifa15, fifa16, fifa17, fifa18, fifa19, fifa20)
 teams_leagues <- teams_leagues %>% 
   unique()
@@ -37,3 +37,6 @@ fifa20_wages <- total %>%
   mutate(average_wage_per_club = total_wage / count) %>%
   select(club, average_wage_per_club,league_name) %>% 
   unique()
+write.csv(fifa20_potential,"average_potential.csv", row.names = FALSE)
+write.csv(fifa20_wages,"average_wages.csv", row.names = FALSE)
+

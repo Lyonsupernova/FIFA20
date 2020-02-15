@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581809615858.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1F3A7606",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1581809615858,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "795092CD",
+        "caption" : "fifa20_wages",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=fifa20_wages&cache_key=795092CD",
+        "displayedObservations" : 842,
+        "environment" : "",
+        "expression" : "fifa20_wages",
+        "object" : "fifa20_wages",
+        "preview" : 0,
+        "totalObservations" : 842,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

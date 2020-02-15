@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581809477025.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "575C3030",
+    "lastKnownWriteTime" : 1581809603,
+    "last_content_update" : 1581809603716,
+    "path" : "~/Public/Drop Box/FIFA20/source/average_potential.R",
+    "project_path" : "average_potential.R",
+    "properties" : {
+        "cursorPosition" : "9,32",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
