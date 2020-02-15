@@ -1,15 +1,39 @@
 library(magrittr)
 library(dplyr)   
-fifa20 <- read.csv("players_15.csv")
-
-fifa20_potential <- fifa20 %>%
+fifa15 <- read.csv("players_15.csv")
+fifa16 <- read.csv("players_16.csv")
+fifa17 <- read.csv("players_17.csv")
+fifa18 <- read.csv("players_18.csv")
+fifa19 <- read.csv("players_19.csv")
+fifa20 <- read.csv("players_20.csv")
+club_id <- read.csv("club_id.csv")
+teams_leagues <- read.csv("teams_and_leagues.csv")
+total <- rbind(fifa15, fifa16, fifa17, fifa18, fifa19, fifa20)
+teams_leagues <- teams_leagues %>% 
+  unique()
+club_id <- club_id %>% 
+  mutate(url = selection1_id, club = selection1_name) %>% 
+  select(url,club)
+leagues_clubs <- merge(club_id, leagues, by = "url")
+total <- merge(total, leagues_clubs, by = "club", all.x = FALSE)
+# use the latest dataset to filter the players below 25 years old
+fifa_potential <- total %>%
   filter(age < 25) %>%
   arrange(desc(potential)) %>% 
-  select(club, potential) %>% 
-  group_by(club) %>% 
+  select(club, potential, league_name) %>% 
+  group_by(club, league_name) %>% 
   arrange(club) %>% 
   mutate(count = n(), total_potentital = sum(potential)) %>% 
-  group_by(club) %>% 
-  mutate(average_potential = sum(potential)/count) %>% 
-  select(club, average_potential) %>% 
+  group_by(club, league_name) %>% 
+  mutate(average_potential =  total_potentital / count) %>% 
+  select(club, average_potential, league_name) %>%
+  unique()
+
+fifa20_wages <- total %>%
+  filter(age < 25) %>% 
+  select(club, wage_eur, league_name) %>% 
+  group_by(club, league_name) %>% 
+  mutate(count = n(), total_wage = sum(wage_eur)) %>% 
+  mutate(average_wage_per_club = total_wage / count) %>%
+  select(club, average_wage_per_club,league_name) %>% 
   unique()
