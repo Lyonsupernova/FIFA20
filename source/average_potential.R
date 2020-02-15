@@ -37,6 +37,18 @@ fifa20_wages <- total %>%
   mutate(average_wage_per_club = total_wage / count) %>%
   select(club, average_wage_per_club,league_name) %>% 
   unique()
+
+
+fifa20_value <- total %>%
+  filter(age < 25) %>% 
+  select(club, value_eur, league_name) %>% 
+  group_by(club, league_name) %>% 
+  mutate(count = n(), total_value = sum(value_eur)) %>% 
+  mutate(average_value_per_club = total_value / count) %>%
+  select(club, average_value_per_club,league_name) %>% 
+  unique()
+
 write.csv(fifa20_potential,"average_potential.csv", row.names = FALSE)
 write.csv(fifa20_wages,"average_wages.csv", row.names = FALSE)
+write.csv(fifa20_value,"average_value.csv", row.names = FALSE)
 

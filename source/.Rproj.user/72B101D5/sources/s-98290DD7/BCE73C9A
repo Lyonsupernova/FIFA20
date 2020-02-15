@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581809941398.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BCE73C9A",
+    "lastKnownWriteTime" : 140631572215368,
+    "last_content_update" : 1581809941398,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "889109B5",
+        "caption" : "fifa20_value",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=fifa20_value&cache_key=889109B5",
+        "displayedObservations" : 842,
+        "environment" : "",
+        "expression" : "fifa20_value",
+        "object" : "fifa20_value",
+        "preview" : 0,
+        "totalObservations" : 842,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
