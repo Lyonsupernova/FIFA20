@@ -7,6 +7,7 @@ fifa18 <- read.csv("data/players_18.csv")
 fifa19 <- read.csv("data/players_19.csv")
 fifa20 <- read.csv("data/players_20.csv")
 club_id <- read.csv("data/club_id.csv")
+country <- read.csv("data/Fifa_Teams_Leagues_Country.csv")
 teams_leagues <- read.csv("data/teams_and_leagues.csv")
 total <- rbind(fifa15, fifa16, fifa17, fifa18, fifa19, fifa20)
 teams_leagues <- teams_leagues %>% 
