@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581811555199.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9BE3E1F7",
+    "lastKnownWriteTime" : 4366020986,
+    "last_content_update" : 1581811555199,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "90D36D72",
+        "caption" : "fifa_potential",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=fifa_potential&cache_key=90D36D72",
+        "displayedObservations" : 842,
+        "environment" : "",
+        "expression" : "fifa_potential",
+        "object" : "fifa_potential",
+        "preview" : 0,
+        "totalObservations" : 842,
+        "variables" : 3
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

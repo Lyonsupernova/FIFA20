@@ -49,7 +49,7 @@ fifa20_value <- total %>%
   select(club, average_value_per_club,league_name) %>% 
   unique()
 
-write.csv(fifa20_potential,"average_potential.csv", row.names = FALSE)
+write.csv(fifa_potential,"average_potential.csv", row.names = FALSE)
 write.csv(fifa20_wages,"average_wages.csv", row.names = FALSE)
 write.csv(fifa20_value,"average_value.csv", row.names = FALSE)
 

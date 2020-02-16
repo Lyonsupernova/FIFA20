@@ -1,666 +1,843 @@
-"club","average_potential"
-" SSV Jahn Regensburg",70.4444444444444
-"1. FC Heidenheim 1846",73.6428571428571
-"1. FC Kaiserslautern",71.6111111111111
-"1. FC Köln",78.125
-"1. FC Magdeburg",70.9375
-"1. FC Nürnberg",75.3333333333333
-"1. FC Union Berlin",75.3333333333333
-"1. FSV Mainz 05",78.4782608695652
-"Aalborg BK",71.6
-"Aarhus GF",70.2
-"Aberdeen",73.5714285714286
-"Abha Club",65.2857142857143
-"AC Ajaccio",71.1428571428571
-"AC Horsens",67.375
-"Academica Clinceni",67.9285714285714
-"Accrington Stanley",69.5555555555556
-"AD Alcorcón",74.6666666666667
-"Adelaide United",69.3846153846154
-"ADO Den Haag",71.3846153846154
-"AEK Athens",76.75
-"AFC Eskilstuna",66.8666666666667
-"AFC Wimbledon",70.1
-"AIK",71.875
-"AJ Auxerre",74.4615384615385
-"Ajax",82
-"Al Adalah",67
-"Al Ahli",68.875
-"Al Ain FC",67.4615384615385
-"Al Faisaly",65.4
-"Al Fateh",66.3333333333333
-"Al Fayha",68.5
-"Al Hazem",66.875
-"Al Hilal",69.8333333333333
-"Al Ittihad",69.4166666666667
-"Al Nassr",70
-"Al Raed",67
-"Al Shabab",69.6666666666667
-"Al Taawoun",66.4166666666667
-"Al Wehda",71.7777777777778
-"Alanyaspor",67.8
-"Albacete BP",74.9333333333333
-"Alianza Petrolera",71
-"América de Cali",70.8461538461538
-"Amiens SC",72.8
-"Angers SCO",76.6
-"Antalyaspor",72.3333333333333
-"Argentinos Juniors",72
-"Arka Gdynia",68.3
-"Arsenal",82.4
-"Arsenal de Sarandí",74.5384615384615
-"AS Monaco",82.1818181818182
-"AS Nancy Lorraine",72.5
-"AS Saint-Étienne",78.1176470588235
-"Ascoli",70
-"Aston Villa",76.85
-"Astra Giurgiu",70.5384615384615
-"Atalanta",79.0769230769231
-"Athletic Club de Bilbao",79.2
-"Atiker Konyaspor",74.3333333333333
-"Atlanta United",75.0666666666667
-"Atlético Bucaramanga",69
-"Atlético de San Luis",72.2222222222222
-"Atlético Huila",69.75
-"Atlético Madrid",83.2105263157895
-"Atlético Nacional",75.5
-"Atlético Tucumán",73.7777777777778
-"Audax Italiano",71
-"AZ Alkmaar",77.5789473684211
-"Barnsley",73.037037037037
-"Bayer 04 Leverkusen",84
-"Bayern München II",74.0416666666667
-"Beijing Renhe FC",62
-"Beijing Sinobo Guoan FC",70.5
-"Benevento",72.2
-"Beşiktaş JK",77.3333333333333
-"Birmingham City",75.8
-"BK Häcken",70.25
-"Blackburn Rovers",74.1764705882353
-"Blackpool",68.9230769230769
-"Boavista FC",72.8
-"Boca Juniors",81.1538461538462
-"Bohemian FC",66.6111111111111
-"Bolivia",73.875
-"Bologna",78.6153846153846
-"Bolton Wanderers",71
-"Borussia Dortmund",81.5555555555556
-"Borussia Mönchengladbach",80.125
-"Bournemouth",79.35
-"Bradford City",66.6923076923077
-"Brentford",75.3478260869565
-"Brescia",77.0769230769231
-"Brighton & Hove Albion",77.3846153846154
-"Brisbane Roar",69
-"Bristol City",76.6875
-"Bristol Rovers",64
-"Brøndby IF",73.0588235294118
-"BSC Young Boys",75.3157894736842
-"Bulgaria",70.25
-"Burnley",73
-"Burton Albion",69.1333333333333
-"Bury",69.5
-"CA Osasuna",76.3333333333333
-"Cádiz CF",71.7777777777778
-"Cagliari",77.5833333333333
-"Cambridge United",69.1538461538462
-"Cameroon",70
-"Cardiff City",72
-"Carlisle United",67.0588235294118
-"Castellammare di Stabia",69.6153846153846
-"Çaykur Rizespor",74.8181818181818
-"CD Antofagasta",70
-"CD Aves",72.6
-"CD Cobresal",67.5
-"CD Everton de Viña del Mar",67.7857142857143
-"CD Huachipato",72.3333333333333
-"CD Leganés",76.75
-"CD Lugo",71.5294117647059
-"CD Mirandés",73
-"CD Numancia",74
-"CD O'Higgins",72.2941176470588
-"CD Palestino",70.3571428571429
-"CD Tenerife",74.8888888888889
-"CD Tondela",74.2352941176471
-"CD Universidad de Concepción",69.25
-"Celtic",77.1875
-"Central Coast Mariners",67.0909090909091
-"Central Córdoba",70.1428571428571
-"Cerezo Osaka",66.7777777777778
-"CF Fuenlabrada",72.5
-"CFR Cluj",74.8333333333333
-"Chamois Niortais Football Club",72.55
-"Charlton Athletic",71.3529411764706
-"Chelsea",84
-"Cheltenham Town",67
-"Chemnitzer FC",67.6153846153846
-"Chicago Fire",69.5454545454545
-"Chievo Verona",71.7058823529412
-"Chindia Târgovişte",70.6666666666667
-"Chongqing Dangdai Lifan FC SWM Team",64
-"Cittadella",73.7333333333333
-"Clermont Foot 63",70.2857142857143
-"Club América",74.375
-"Club Atlas",72.7857142857143
-"Club Atlético Aldosivi",74.875
-"Club Atlético Banfield",76.6875
-"Club Atlético Colón",74.4166666666667
-"Club Atlético Huracán",74.375
-"Club Atlético Lanús",78.1333333333333
-"Club Atlético Talleres",75.45
-"Club Brugge KV",79.0625
-"Club León",74.8461538461538
-"Club Necaxa",72.4
-"Club Tijuana",73.3076923076923
-"Clube Sport Marítimo",72.5
-"Colchester United",70.3684210526316
-"Colo-Colo",75.7
-"Colorado Rapids",71.5714285714286
-"Columbus Crew SC",71.4615384615385
-"Coquimbo Unido",70
-"Cork City",65.8666666666667
-"Cosenza",73.7142857142857
-"Côte d'Ivoire",66
-"Coventry City",70.8
-"Cracovia",70.9333333333333
-"Crawley Town",67.125
-"Crewe Alexandra",68.2222222222222
-"Crotone",72.1538461538462
-"Cruz Azul",74.8333333333333
-"Crystal Palace",74.4545454545455
-"Cúcuta Deportivo",67.2857142857143
-"Curicó Unido",69.4
-"Daegu FC",70.9230769230769
-"Dalian YiFang FC",65.9
-"Damac FC",65.2857142857143
-"DC United",73
-"Defensa y Justicia",75.4
-"Denizlispor",69.8
-"Deportes Iquique",69.5
-"Deportes Tolima",73.875
-"Deportivo Alavés",77.8666666666667
-"Deportivo Cali",73.0526315789474
-"Deportivo de La Coruña",78.2857142857143
-"Deportivo Pasto",69.4444444444444
-"Deportivo Toluca",70.7
-"Derby County",77.9285714285714
-"Derry City",68.4615384615385
-"Dijon FCO",76.75
-"Dinamo Bucureşti",72.6
-"Dinamo Zagreb",78.6
-"Djurgårdens IF",68.3076923076923
-"Doncaster Rovers",69.7
-"DSC Arminia Bielefeld",74.3333333333333
-"Dundalk",67.75
-"Dynamo Kyiv",79.75
-"Egypt",72.6666666666667
-"Eintracht Braunschweig",72.0833333333333
-"Eintracht Frankfurt",79.6923076923077
-"Elche CF",73.8333333333333
-"Empoli",73.8235294117647
-"En Avant de Guingamp",73.7777777777778
-"Envigado FC",72.4705882352941
-"Esbjerg fB",71.4117647058823
-"ESTAC Troyes",72.8125
-"Estudiantes de La Plata",76.2352941176471
-"Ettifaq FC",69.1818181818182
-"Everton",82.2142857142857
-"Exeter City",68.0833333333333
-"Extremadura UD",73.1
-"Falkenbergs FF",65.25
-"Famalicão",76.05
-"FC Admira Wacker Mödling",70.8
-"FC Augsburg",78.125
-"FC Barcelona",84.2631578947368
-"FC Basel 1893",76.9375
-"FC Bayern München",86.2307692307692
-"FC Botoşani",68.6153846153846
-"FC Carl Zeiss Jena",69.5454545454545
-"FC Chambly Oise",68.7142857142857
-"FC Cincinnati",71
-"FC Dallas",74.7857142857143
-"FC Emmen",71
-"FC Erzgebirge Aue",72.7333333333333
-"FC Girondins de Bordeaux",78.5294117647059
-"FC Groningen",73.9523809523809
-"FC Hansa Rostock",69.2142857142857
-"FC Hermannstadt",67.2857142857143
-"FC Ingolstadt 04",71.6666666666667
-"FC Juárez",67.8333333333333
-"FC København",74.7272727272727
-"FC Lorient",73.9285714285714
-"FC Lugano",72.5625
-"FC Luzern",73.6470588235294
-"FC Metz",75.8888888888889
-"FC Midtjylland",73.3571428571429
-"FC Nantes",77
-"FC Nordsjælland",73.2727272727273
-"FC Paços de Ferreira",73.8461538461538
-"FC Porto",81.0714285714286
-"FC Red Bull Salzburg",78.3333333333333
-"FC Schalke 04",80.2941176470588
-"FC Seoul",68.6363636363636
-"FC Sion",75.3571428571429
-"FC Sochaux-Montbéliard",72.5454545454545
-"FC St. Gallen",70.7222222222222
-"FC St. Pauli",73.9285714285714
-"FC Thun",69.7222222222222
-"FC Tokyo",68.25
-"FC Twente",73.5555555555556
-"FC Utrecht",75.8666666666667
-"FC Viitorul",72.6111111111111
-"FC Voluntari",68.7857142857143
-"FC Würzburger Kickers",68.65
-"FC Zürich",73.7857142857143
-"FCSB (Steaua)",76.5454545454545
-"Fenerbahçe SK",75.5555555555556
-"Feyenoord",78.1764705882353
-"Finland",76
-"Finn Harps",63.5333333333333
-"Fiorentina",79.1176470588235
-"FK Austria Wien",73.2
-"FK Bodø/Glimt",69.2222222222222
-"FK Haugesund",69.1764705882353
-"Fleetwood Town",69.3333333333333
-"Forest Green Rovers",69
-"Fortuna Düsseldorf",76.8823529411765
-"Fortuna Sittard",72.75
-"Frosinone",72.4444444444444
-"FSV Zwickau",69.2727272727273
-"Fulham",76.8
-"Galatasaray SK",77.2
-"Gamba Osaka",68.2857142857143
-"Gangwon FC",67.5
-"Gaz Metan Mediaş",68.25
-"Gazişehir Gaziantep F.K.",67.4
-"Gençlerbirliği SK",74
-"Genoa",78.6470588235294
-"Getafe CF",80
-"Gil Vicente FC",72.4444444444444
-"Gillingham",69.7058823529412
-"Gimnasia y Esgrima La Plata",73.3333333333333
-"Girona FC",77.125
-"Godoy Cruz",73.68
-"Górnik Zabrze",69.4705882352941
-"Göztepe SK",69.4
-"Granada CF",74.5
-"Grenoble Foot 38",70.1538461538462
-"Grimsby Town",67.125
-"Guadalajara",71.8181818181818
-"Guangzhou Evergrande Taobao FC",68.3076923076923
-"Guangzhou R&F FC",64.25
-"Gyeongnam FC",70
-"Hallescher FC",71.5
-"Hamburger SV",77.7222222222222
-"Hamilton Academical FC",68.05
-"Hammarby IF",69.4
-"Hannover 96",76
-"Heart of Midlothian",77.3076923076923
-"Hebei China Fortune FC",63
-"Hellas Verona",76.0833333333333
-"Helsingborgs IF",67.9230769230769
-"Henan Jianye FC",66.7142857142857
-"Heracles Almelo",72.3888888888889
-"Hertha BSC",80.3636363636364
-"Hibernian",75.5
-"HJK Helsinki",71.8235294117647
-"Hobro IK",66.3571428571429
-"Hokkaido Consadole Sapporo",68.875
-"Holstein Kiel",73.5789473684211
-"Houston Dynamo",72.4545454545455
-"Huddersfield Town",76.6666666666667
-"Hull City",73.3529411764706
-"Hungary",78
-"IF Elfsborg",67.8333333333333
-"IFK Göteborg",72.5
-"IFK Norrköping",70.8666666666667
-"IK Sirius",67.1
-"Incheon United FC",67.2
-"Independiente",78.6666666666667
-"Independiente Medellín",72.4166666666667
-"Independiente Santa Fe",71.1428571428571
-"Inter",81.25
-"Ipswich Town",76.0909090909091
-"Jagiellonia Białystok",70.3636363636364
-"Jaguares de Córdoba",68.4
-"Jeju United FC",64.2222222222222
-"Jeonbuk Hyundai Motors",68.8
-"Jiangsu Suning FC",64.2222222222222
-"Júbilo Iwata",65.8
-"Junior FC",74.6666666666667
-"Juventus",82.0909090909091
-"KAA Gent",77.7692307692308
-"Kaizer Chiefs",71.7142857142857
-"Kalmar FF",69.7692307692308
-"Karlsruher SC",70.4615384615385
-"KAS Eupen",74.7058823529412
-"Kashima Antlers",71.3076923076923
-"Kasimpaşa SK",71.1
-"Kawasaki Frontale",69
-"Kayserispor",71.0769230769231
-"KFC Uerdingen 05",73.75
-"Kilmarnock",72.25
-"Korona Kielce",68.3846153846154
-"KRC Genk",79.0952380952381
-"Kristiansund BK",68.4285714285714
-"KSV Cercle Brugge",73.6842105263158
-"KV Kortrijk",72
-"KV Mechelen",71.4375
-"KV Oostende",74.5
-"La Berrichonne de Châteauroux",72.2
-"La Equidad",71.4444444444444
-"LA Galaxy",73.7777777777778
-"LASK Linz",71.7333333333333
-"Lazio",80.4285714285714
-"Le Havre AC",74.6
-"Le Mans FC",70.1111111111111
-"Lecce",67.9
-"Lech Poznań",74.25
-"Lechia Gdańsk",73.3846153846154
-"Leeds United",79
-"Legia Warszawa",73.2
-"Leicester City",81
-"Levante UD",76.3
-"Leyton Orient",66.9411764705882
-"Lillestrøm SK",70.8333333333333
-"Lincoln City",73
-"Liverpool",81.9333333333333
-"Livingston FC",69.3636363636364
-"Livorno",69.8125
-"LKS Lodz",65.3333333333333
-"Lokomotiv Moscow",75.6153846153846
-"Los Angeles FC",73.9090909090909
-"LOSC Lille",81.28
-"Luton Town",71.0909090909091
-"Lyngby BK",67.8571428571429
-"Macclesfield Town",67.8461538461538
-"Málaga CF",76
-"Malmö FF",72.125
-"Manchester City",83.4736842105263
-"Manchester United",83.7647058823529
-"Mansfield Town",70.2
-"Matsumoto Yamaga",63.8571428571429
-"Medipol Başakşehir FK",78.25
-"Melbourne City FC",71.4444444444444
-"Melbourne Victory",68.5
-"Middlesbrough",75.5263157894737
-"Milan",83.8
-"Millonarios FC",77
-"Millwall",71.1428571428571
-"Milton Keynes Dons",70.7142857142857
-"Minnesota United FC",68.375
-"Mjøndalen IF",67.4444444444444
-"MKE Ankaragücü",63.5
-"Molde FK",72.0833333333333
-"Monarcas Morelia",72.5384615384615
-"Monterrey",75.3846153846154
-"Montpellier HSC",76.8181818181818
-"Montreal Impact",73.0833333333333
-"Morecambe",63.5833333333333
-"Moreirense FC",76.4
-"Motherwell",72.4666666666667
-"MSV Duisburg",69.4117647058823
-"Nagoya Grampus",67.2
-"Napoli",79.3
-"Netherlands",82
-"Neuchâtel Xamax",67.6666666666667
-"New England Revolution",71.3
-"New York City FC",77
-"New York Red Bulls",74.1875
-"New Zealand",65.5
-"Newcastle Jets",68
-"Newcastle United",79
-"Newell's Old Boys",76.6
-"Newport County",66.7857142857143
-"Nîmes Olympique",73.4666666666667
-"Northampton Town",68.1333333333333
-"Norwich City",78.8571428571429
-"Nottingham Forest",80.25
-"Odds BK",71.2142857142857
-"Odense Boldklub",71.5833333333333
-"OGC Nice",78.0909090909091
-"Oita Trinita",67.6666666666667
-"Oldham Athletic",67.6153846153846
-"Olympiacos CFP",79.5
-"Olympique de Marseille",78.8571428571429
-"Olympique Lyonnais",82.4761904761905
-"Once Caldas",73.3333333333333
-"Örebro SK",67.2307692307692
-"Orlando City SC",71.5
-"Orlando Pirates",71.6666666666667
-"Os Belenenses",75.7222222222222
-"Östersunds FK",69.5555555555556
-"Oxford United",72.2631578947368
-"Pachuca",74.7272727272727
-"Panathinaikos FC",75.1111111111111
-"PAOK",78.1111111111111
-"Paraguay",75.3333333333333
-"Paris FC",69.6363636363636
-"Paris Saint-Germain",81.5625
-"Parma",75.625
-"Patriotas Boyacá FC",72.4615384615385
-"Patronato",73.3
-"PEC Zwolle",73.4117647058823
-"Perth Glory",68.5555555555556
-"Peru",76
-"Perugia",75.4615384615385
-"Pescara",70.1875
-"Peterborough United",71.4
-"PFC CSKA Moscow",78.1764705882353
-"Philadelphia Union",73.4545454545455
-"Piast Gliwice",67.5
-"Pisa",72.3333333333333
-"Plymouth Argyle",69.4166666666667
-"Pogoń Szczecin",71.5714285714286
-"Pohang Steelers",71.6428571428571
-"Politehnica Iaşi",70.2857142857143
-"Pordenone",72.8
-"Port Vale",65.9230769230769
-"Portimonense SC",75.4761904761905
-"Portland Timbers",73.4545454545455
-"Portsmouth",73.9375
-"Preston North End",74.4285714285714
-"PSV",81.1363636363636
-"Puebla FC",72
-"Queens Park Rangers",73.8947368421053
-"Querétaro",72.6153846153846
-"Racing Club",79.2727272727273
-"Racing Club de Lens",75.3333333333333
-"Racing Santander",73.2
-"Raków Częstochowa",69.5833333333333
-"Randers FC",69.1538461538462
-"Rangers FC",77.5454545454545
-"Ranheim Fotball",66.4545454545455
-"Rayo Vallecano",76.375
-"RB Leipzig",81.5909090909091
-"RC Celta",79.0909090909091
-"RC Strasbourg Alsace",77.0714285714286
-"RCD Espanyol",79.125
-"RCD Mallorca",77.8
-"Reading",76.7058823529412
-"Real Betis",76.4666666666667
-"Real Madrid",85.2
-"Real Oviedo",74.8571428571429
-"Real Salt Lake",72.7142857142857
-"Real Sociedad",80.4
-"Real Sporting de Gijón",75.6
-"Real Valladolid CF",80.7619047619048
-"Real Zaragoza",76.4705882352941
-"Rio Ave FC",75.0625
-"Rionegro Águilas",69.75
-"River Plate",81.2857142857143
-"RKC Waalwijk",69.2
-"Rochdale",71.375
-"Rodez Aveyron Football",67.75
-"Roma",81.5294117647059
-"Romania",77.5
-"Rosario Central",74.4444444444444
-"Rosenborg BK",74.3846153846154
-"Ross County FC",71.2
-"Rotherham United",72.5
-"Royal Antwerp FC",76.3571428571429
-"Royal Excel Mouscron",71.6315789473684
-"RSC Anderlecht",80.2666666666667
-"Sagan Tosu",67.4444444444444
-"Salford City",66.8571428571429
-"Sampdoria",76.95
-"San Jose Earthquakes",72.2142857142857
-"San Lorenzo de Almagro",78.5454545454545
-"Sanfrecce Hiroshima",70.25
-"Sangju Sangmu FC",69
-"Santa Clara",73.3846153846154
-"Santos Laguna",73.6923076923077
-"Sarpsborg 08 FF",70.5
-"Sassuolo",78.4
-"SC Braga",79.9285714285714
-"SC Freiburg",75.0666666666667
-"SC Heerenveen",74.7647058823529
-"SC Paderborn 07",73.1666666666667
-"SC Preußen Münster",70.25
-"SCR Altach",70.625
-"Scunthorpe United",68.8888888888889
-"SD Eibar",76
-"SD Huesca",76.3125
-"SD Ponferradina",72.2
-"Seattle Sounders FC",74.4
-"Sepsi OSK",70.5454545454545
-"Servette FC",70
-"Sevilla FC",79.9411764705882
-"SG Dynamo Dresden",75.3846153846154
-"SG Sonnenhof Großaspach",68.8
-"Shakhtar Donetsk",82
-"Shamrock Rovers",67.2727272727273
-"Shandong Luneng TaiShan FC",65.4
-"Shanghai Greenland Shenhua FC",64.8571428571429
-"Shanghai SIPG FC",65.1111111111111
-"Sheffield United",75.8181818181818
-"Sheffield Wednesday",73.3636363636364
-"Shenzhen FC",64.6363636363636
-"Shimizu S-Pulse",68
-"Shrewsbury",72.25
-"Silkeborg IF",69.35
-"Sint-Truidense VV",72.2941176470588
-"Sivasspor",71.9
-"SK Brann",68.625
-"SK Rapid Wien",73.7692307692308
-"SK Slavia Praha",80.2857142857143
-"SK Sturm Graz",72.4444444444444
-"SKN St. Pölten",68.3333333333333
-"SL Benfica",82.4117647058823
-"Śląsk Wrocław",66
-"Sligo Rovers",65.4285714285714
-"Slovenia",75
-"SønderjyskE",67.2727272727273
-"South Africa",73
-"Southampton",78.2352941176471
-"Southend United",71.3333333333333
-"SPAL",74.3636363636364
-"Sparta Praha",79.3
-"Sparta Rotterdam",72.1666666666667
-"Spartak Moscow",78.3125
-"Spezia",72.8235294117647
-"Sporting CP",82.2
-"Sporting de Charleroi",74.8571428571429
-"Sporting Kansas City",74
-"SpVgg Greuther Fürth",72.3
-"SpVgg Unterhaching",69.5333333333333
-"St. Johnstone FC",71.2307692307692
-"St. Mirren",71.5
-"St. Patrick's Athletic",67.6428571428571
-"Stabæk Fotball",72.1666666666667
-"Stade Brestois 29",77.6
-"Stade de Reims",76.25
-"Stade Malherbe Caen",73.0769230769231
-"Stade Rennais FC",78.3333333333333
-"Standard de Liège",77.3571428571429
-"Stevenage",68.0555555555556
-"Stoke City",78.3333333333333
-"Strømsgodset IF",70.2
-"Sunderland",72.6666666666667
-"Suwon Samsung Bluewings",72.125
-"SV Darmstadt 98",74.6363636363636
-"SV Mattersburg",70.1538461538462
-"SV Meppen",67.3846153846154
-"SV Sandhausen",70.9
-"SV Waldhof Mannheim",67.0769230769231
-"SV Wehen Wiesbaden",70.4
-"SV Werder Bremen",78.9333333333333
-"SV Zulte-Waregem",74.6666666666667
-"Swansea City",74.6315789473684
-"Sweden",79
-"Swindon Town",65.6666666666667
-"Sydney FC",69.375
-"Tianjin Quanjian FC",61.4285714285714
-"Tianjin TEDA FC",59.1428571428571
-"Tiburones Rojos de Veracruz",68.6
-"Tigres U.A.N.L.",71.1111111111111
-"Torino",77.8666666666667
-"Toronto FC",71.9090909090909
-"Tottenham Hotspur",82.8333333333333
-"Toulouse Football Club",77.25
-"Trabzonspor",76.65
-"Tranmere Rovers",69.5333333333333
-"Trapani",74.4615384615385
-"Tromsø IL",70.6111111111111
-"TSG 1899 Hoffenheim",80.7777777777778
-"TSV 1860 München",69.1666666666667
-"TSV Hartberg",68.4545454545455
-"U.N.A.M.",73.1818181818182
-"UCD AFC",64.6190476190476
-"UD Almería",72.6875
-"UD Las Palmas",74.5384615384615
-"Udinese",79.8333333333333
-"Ulsan Hyundai FC",68
-"Unión de Santa Fe",72.4545454545455
-"Unión Española",72.0666666666667
-"Unión La Calera",75.125
-"Unión Magdalena",68.8461538461538
-"Universidad Católica",74.9230769230769
-"Universidad de Chile",73.8888888888889
-"Universitatea Craiova",73.5333333333333
-"Urawa Red Diamonds",68.3333333333333
-"US Cremonese",70.5
-"US Orléans Loiret Football",80
-"US Salernitana 1919",71.5
-"Valencia CF",79.4117647058823
-"Valenciennes FC",71.1666666666667
-"Vålerenga Fotball",71.0714285714286
-"Vancouver Whitecaps FC",72
-"Vegalta Sendai",68
-"Vélez Sarsfield",79.7368421052632
-"Venezia FC",71.2222222222222
-"Venezuela",72
-"VfB Stuttgart",78
-"VfL Bochum 1848",73.9333333333333
-"VfL Osnabrück",74.1666666666667
-"VfL Wolfsburg",78.2857142857143
-"Viking FK",70.8
-"Viktoria Köln",69.7333333333333
-"Viktoria Plzeň",74.1111111111111
-"Villarreal CF",77
-"Virtus Entella",72.6428571428571
-"Vissel Kobe",68.6363636363636
-"Vitesse",75.1333333333333
-"Vitória de Setúbal",74.1428571428571
-"Vitória Guimarães",75.0714285714286
-"VVV-Venlo",72.2666666666667
-"Waasland-Beveren",71.8095238095238
-"Walsall",69.1
-"Waterford FC",64.75
-"Watford",80.3
-"Wellington Phoenix",72
-"West Bromwich Albion",77.1875
-"West Ham United",76.2307692307692
-"Western United FC",69.0909090909091
-"Wigan Athletic",75.3571428571429
-"Willem II",72.9333333333333
-"Wisła Kraków",71.875
-"Wisła Płock",67.3846153846154
-"Wolfsberger AC",70.75
-"Wolverhampton Wanderers",78.15
-"WSG Tirol",70.1111111111111
-"Wuhan Zall",63.5
-"Wycombe Wanderers",69.3636363636364
-"Yeni Malatyaspor",69.875
-"Yokohama F. Marinos",71.4545454545455
-"Zagłębie Lubin",69.2307692307692
+"club","average_potential","league_name"
+"1. FC Heidenheim 1846",71.5952380952381,"German 2. Bundesliga "
+"1. FC Kaiserslautern",71.875,"German 3. Bundesliga "
+"1. FC Köln",77.6627906976744,"German 1. Bundesliga "
+"1. FC Nürnberg",74.258064516129,"German 2. Bundesliga "
+"1. FC Union Berlin",73.3125,"German 1. Bundesliga "
+"1. FSV Mainz 05",77.8,"German 1. Bundesliga "
+"Aalborg BK",69.2912621359223,"Danish Superliga "
+"Aberdeen",70.5666666666667,"Scottish Premiership "
+"AC Ajaccio",69.3783783783784,"French Ligue 2 "
+"AC Arles Avignon",67.3333333333333,"French Ligue 2 "
+"AC Barnechea",67.8235294117647,"Chilian Campeonato Nacional "
+"Accrington Stanley",66.2019230769231,"English League One "
+"AD Alcorcón",71.3965517241379,"Spanish Segunda División "
+"Adelaide United",66.7333333333333,"Australian Hyundai A-League "
+"ADO Den Haag",72.1111111111111,"Holland Eredivisie "
+"AFC Wimbledon",67.4947368421053,"English League One "
+"AIK",70.6056338028169,"Swedish Allsvenskan "
+"AJ Auxerre",72.75,"French Ligue 2 "
+"Ajax",80.8091603053435,"Holland Eredivisie "
+"Akhisar Belediyespor",67.9090909090909,"Turkish Süper Lig "
+"Al Ahli",68.1,"Saudi Abdul L. Jameel League "
+"Al Faisaly",62.0862068965517,"Saudi Abdul L. Jameel League "
+"Al Fateh",62.6376811594203,"Saudi Abdul L. Jameel League "
+"Al Hilal",70.21875,"Saudi Abdul L. Jameel League "
+"Al Ittihad",70.3061224489796,"Saudi Abdul L. Jameel League "
+"Al Khaleej",63.1081081081081,"Saudi Abdul L. Jameel League "
+"Al Nassr",68.1071428571429,"Saudi Abdul L. Jameel League "
+"Al Orobah",57,"Saudi Abdul L. Jameel League "
+"Al Raed",63.9014084507042,"Saudi Abdul L. Jameel League "
+"Al Shabab",67.438202247191,"Saudi Abdul L. Jameel League "
+"Al Shoulla",60.7142857142857,"Saudi Abdul L. Jameel League "
+"Al Taawoun",64.1866666666667,"Saudi Abdul L. Jameel League "
+"Albacete BP",71.296875,"Spanish Segunda División "
+"Alianza Petrolera",68.032967032967,"Colombian Liga Postobón "
+"Amkar Perm",68.6,"Russian Premier League "
+"Angers SCO",73.1351351351351,"French Ligue 1 "
+"Arsenal",79.7450980392157,"English Premier League "
+"Arsenal de Sarandí",71.95,"Argentina Primera División  "
+"Arsenal Tula",69.2307692307692,"Russian Premier League "
+"AS Monaco",80.0375939849624,"French Ligue 1 "
+"AS Nancy Lorraine",72.3164556962025,"French Ligue 2 "
+"AS Saint-Étienne",75.1264367816092,"French Ligue 1 "
+"Associação Académica de Coimbra",71.6923076923077,"Portuguese Liga ZON SAGRES "
+"Aston Villa",76.625,"English Premier League "
+"Atalanta",77.3513513513514,"Italian Serie A "
+"Athletic Club de Bilbao",78.6024096385542,"Spain Primera Division "
+"Athlone Town",58.4285714285714,"Rep. Ireland Airtricity League "
+"Atiker Konyaspor",72.8275862068966,"Turkish Süper Lig "
+"Atlético de Rafaela",68.62,"Argentina Primera División  "
+"Atlético Huila",68.2906976744186,"Colombian Liga Postobón "
+"Atlético Madrid",80.6274509803922,"Spain Primera Division "
+"Atlético Nacional",74.0724637681159,"Colombian Liga Postobón "
+"Audax Italiano",70.9538461538462,"Chilian Campeonato Nacional "
+"Australia",76.5,"International"
+"Austria",82.5,"International"
+"Avellino",69.953125,"Italian Serie B "
+"AZ Alkmaar",76.1016949152542,"Holland Eredivisie "
+"Balıkesirspor",65.125,"Turkish Süper Lig "
+"Bari",72.7903225806452,"Italian Serie B "
+"Barnsley",70.4513888888889,"English League Championship "
+"Bayer 04 Leverkusen",81.375,"German 1. Bundesliga "
+"Belgrano de Córdoba",70.3561643835616,"Argentina Primera División  "
+"Beşiktaş JK",77,"Turkish Süper Lig "
+"Birmingham City",73.3703703703704,"English League Championship "
+"BK Häcken",68.8235294117647,"Swedish Allsvenskan "
+"Blackburn Rovers",72.8857142857143,"English League Championship "
+"Blackpool",67.6818181818182,"English League One "
+"Boavista FC",72.5217391304348,"Portuguese Liga ZON SAGRES "
+"Boca Juniors",77.7096774193548,"Argentina Primera División  "
+"Bohemian FC",63.6593406593407,"Rep. Ireland Airtricity League "
+"Bolivia",69.25,"International"
+"Bologna",77.0315789473684,"Italian Serie A "
+"Bolton Wanderers",72,"English League One "
+"Borussia Dortmund",80.09,"German 1. Bundesliga "
+"Borussia Mönchengladbach",79.021052631579,"German 1. Bundesliga "
+"Bournemouth",75.9019607843137,"English Premier League "
+"Boyacá Chicó FC",64.9310344827586,"Colombian Liga Postobón "
+"Bradford City",67.3116883116883,"English League Two "
+"Bray Wanderers",60.8235294117647,"Rep. Ireland Airtricity League "
+"Brentford",72.5461538461538,"English League Championship "
+"Brescia",71.6542056074766,"Italian Serie A "
+"Brighton & Hove Albion",75.3513513513514,"English Premier League "
+"Brisbane Roar",67.1791044776119,"Australian Hyundai A-League "
+"Bristol City",72.990990990991,"English League Championship "
+"Brøndby IF",71.3229166666667,"Danish Superliga "
+"BSC Young Boys",72.03125,"Swiss Super League "
+"Bulgaria",70.4,"International"
+"Burnley",70.8133333333333,"English Premier League "
+"Burton Albion",66.8536585365854,"English League One "
+"Bury",68.7916666666667,"English League One "
+"CA Osasuna",73.9879518072289,"Spain Primera Division "
+"Cagliari",77.2985074626866,"Italian Serie A "
+"Cambridge United",65.5955056179775,"English League Two "
+"Cameroon",72.2,"International"
+"Cardiff City",71.8358208955224,"English League Championship "
+"Carlisle United",65.2658227848101,"English League Two "
+"Carpi",70.5324675324675,"Italian Serie B "
+"Catania",71.5384615384615,"Italian Serie B "
+"Çaykur Rizespor",72.7833333333333,"Turkish Süper Lig "
+"CD Antofagasta",69.7627118644068,"Chilian Campeonato Nacional "
+"CD Cobreloa",70,"Chilian Campeonato Nacional "
+"CD Cobresal",67.063829787234,"Chilian Campeonato Nacional "
+"CD Huachipato",69.9157894736842,"Chilian Campeonato Nacional "
+"CD Leganés",74.2631578947368,"Spain Primera Division "
+"CD Lugo",71.1136363636364,"Spanish Segunda División "
+"CD Mirandés",69.5957446808511,"Spanish Segunda División "
+"CD Nacional",72.9746835443038,"Portuguese Liga ZON SAGRES "
+"CD Numancia",71.089552238806,"Spanish Segunda División "
+"CD O'Higgins",72.0632911392405,"Chilian Campeonato Nacional "
+"CD Palestino",69.8285714285714,"Chilian Campeonato Nacional "
+"CD Tenerife",73.4888888888889,"Spanish Segunda División "
+"CD Universidad de Concepción",67.0263157894737,"Chilian Campeonato Nacional "
+"CE Sabadell FC",65.1666666666667,"Spanish Segunda División "
+"Celtic",76.5161290322581,"Scottish Premiership "
+"Central Coast Mariners",67.2368421052632,"Australian Hyundai A-League "
+"Cesena",71.4583333333333,"Italian Serie B "
+"Chamois Niortais Football Club",70.1359223300971,"French Ligue 2 "
+"Charlton Athletic",70.7735849056604,"English League Championship "
+"Chelsea",81.0833333333333,"English Premier League "
+"Cheltenham Town",65.8227848101266,"English League Two "
+"Chesterfield",67.7846153846154,"English League Two "
+"Chicago Fire",68.484375,"USA Major League Soccer "
+"Chievo Verona",74.5,"Italian Serie B "
+"Chivas USA",65.2666666666667,"USA Major League Soccer "
+"Cittadella",68.9189189189189,"Italian Serie B "
+"Clermont Foot 63",69.7882352941176,"French Ligue 2 "
+"Club América",72.1139240506329,"Mexican Liga MX "
+"Club Atlas",71.7692307692308,"Mexican Liga MX "
+"Club Atlético Banfield",72.7156862745098,"Argentina Primera División  "
+"Club Atlético Lanús",74.1518987341772,"Argentina Primera División  "
+"Club Atlético Tigre",71.0666666666667,"Argentina Primera División  "
+"Club Brugge KV",77.7604166666667,"Belgian Jupiler Pro League "
+"Club León",71.3283582089552,"Mexican Liga MX "
+"Club Olimpo",68,"Argentina Primera División  "
+"Club Tijuana",70.5813953488372,"Mexican Liga MX "
+"Clube Sport Marítimo",72.25,"Portuguese Liga ZON SAGRES "
+"Colchester United",69.3145161290323,"English League Two "
+"Colo-Colo",75.2083333333333,"Chilian Campeonato Nacional "
+"Colombia",80,"International"
+"Colorado Rapids",69.945945945946,"USA Major League Soccer "
+"Columbus Crew SC",70.4788732394366,"USA Major League Soccer "
+"Córdoba CF",71.8194444444444,"Spanish Segunda División "
+"Cork City",64.2133333333333,"Rep. Ireland Airtricity League "
+"Côte d'Ivoire",68.5,"International"
+"Coventry City",71.2894736842105,"English League One "
+"Cracovia",67.2716049382716,"Polish T-Mobile Ekstraklasa "
+"Crawley Town",66.52,"English League Two "
+"Crewe Alexandra",67.1111111111111,"English League Two "
+"Crotone",71.04,"Italian Serie B "
+"Cruz Azul",72.1320754716981,"Mexican Liga MX "
+"Crystal Palace",75.0985915492958,"English Premier League "
+"Czech Republic",78,"International"
+"DC United",71.0476190476191,"USA Major League Soccer "
+"Defensa y Justicia",71.8695652173913,"Argentina Primera División  "
+"Deportes Iquique",68.6065573770492,"Chilian Campeonato Nacional "
+"Deportes Tolima",70.4202898550725,"Colombian Liga Postobón "
+"Deportivo Alavés",75.2875,"Spain Primera Division "
+"Deportivo Cali",72.8543689320388,"Colombian Liga Postobón "
+"Deportivo de La Coruña",76.1944444444444,"Spanish Segunda División "
+"Deportivo Ñublense",65,"Chilian Campeonato Nacional "
+"Deportivo Pasto",67.8363636363636,"Colombian Liga Postobón "
+"Deportivo San Marcos de Arica",68.8214285714286,"Chilian Campeonato Nacional "
+"Deportivo Toluca",69,"Mexican Liga MX "
+"Derby County",74.6103896103896,"English League Championship "
+"Derry City",64.1458333333333,"Rep. Ireland Airtricity League "
+"Dijon FCO",72.445945945946,"French Ligue 1 "
+"Dinamo Moscow",72.1,"Russian Premier League "
+"Djurgårdens IF",68.5569620253165,"Swedish Allsvenskan "
+"Doncaster Rovers",67.6285714285714,"English League One "
+"Drogheda United",61.1489361702128,"Rep. Ireland Airtricity League "
+"Dundalk",64.9117647058823,"Rep. Ireland Airtricity League "
+"Ecuador",73.3846153846154,"International"
+"Egypt",74.2222222222222,"International"
+"Eintracht Braunschweig",71.6043956043956,"German 3. Bundesliga "
+"Eintracht Frankfurt",78.031914893617,"German 1. Bundesliga "
+"Elche CF",72.8709677419355,"Spanish Segunda División "
+"Empoli",74.3365384615385,"Italian Serie B "
+"En Avant de Guingamp",73.9428571428571,"French Ligue 2 "
+"Envigado FC",71.2333333333333,"Colombian Liga Postobón "
+"Esbjerg fB",68.2083333333333,"Danish Superliga "
+"Eskişehirspor",70.5925925925926,"Turkish Süper Lig "
+"ESTAC Troyes",71.2222222222222,"French Ligue 2 "
+"Estudiantes de La Plata",73.4166666666667,"Argentina Primera División  "
+"Everton",80.0430107526882,"English Premier League "
+"Évian Thonon Gaillard FC",67.9375,"French Ligue 2 "
+"Excelsior",71.2571428571429,"Holland Eredivisie "
+"Exeter City",65.9010989010989,"English League Two "
+"Falkenbergs FF",64.3061224489796,"Swedish Allsvenskan "
+"FC Admira Wacker Mödling",68.3303571428571,"Austrian Football Bundesliga "
+"FC Arouca",73.2222222222222,"Portuguese Liga ZON SAGRES "
+"FC Augsburg",74.816091954023,"German 1. Bundesliga "
+"FC Barcelona",83.3793103448276,"Spain Primera Division "
+"FC Barcelona B",75.8571428571429,"Spanish Segunda División "
+"FC Basel 1893",76.8,"Swiss Super League "
+"FC Bayern München",82.6,"German 1. Bundesliga "
+"FC Dallas",71.8588235294118,"USA Major League Soccer "
+"FC Dordrecht",69.6842105263158,"Holland Eredivisie "
+"FC Erzgebirge Aue",70.3802816901408,"German 2. Bundesliga "
+"FC Girondins de Bordeaux",78.0877192982456,"French Ligue 1 "
+"FC Groningen",73.6181818181818,"Holland Eredivisie "
+"FC Ingolstadt 04",72.8352941176471,"German 3. Bundesliga "
+"FC København",73.1012658227848,"Danish Superliga "
+"FC Krasnodar",72.7647058823529,"Russian Premier League "
+"FC Lorient",73.021978021978,"French Ligue 2 "
+"FC Luzern",70.7096774193548,"Swiss Super League "
+"FC Metz",73.9320388349515,"French Ligue 1 "
+"FC Midtjylland",71.8372093023256,"Danish Superliga "
+"FC Nantes",74.6454545454545,"French Ligue 1 "
+"FC Nordsjælland",69.3846153846154,"Danish Superliga "
+"FC Paços de Ferreira",72.7014925373134,"Portuguese Liga ZON SAGRES "
+"FC Penafiel",69,"Portuguese Liga ZON SAGRES "
+"FC Porto",81.6091954022989,"Portuguese Liga ZON SAGRES "
+"FC Pro Vercelli 1892",68.1470588235294,"Italian Serie B "
+"FC Red Bull Salzburg",76.6363636363636,"Austrian Football Bundesliga "
+"FC Rostov",70.15,"Russian Premier League "
+"FC Schalke 04",80.3010752688172,"German 1. Bundesliga "
+"FC Seoul",69.1111111111111,"Korean K League Classic "
+"FC Sion",72.6551724137931,"Swiss Super League "
+"FC Sochaux-Montbéliard",72.2169811320755,"French Ligue 2 "
+"FC St. Gallen",69.890243902439,"Swiss Super League "
+"FC St. Pauli",72.0476190476191,"German 2. Bundesliga "
+"FC Thun",67.1847826086957,"Swiss Super League "
+"FC Twente",74.8137254901961,"Holland Eredivisie "
+"FC Ufa",70.780487804878,"Russian Premier League "
+"FC Ural Yekaterinburg",71.2413793103448,"Russian Premier League "
+"FC Utrecht",74.2685185185185,"Holland Eredivisie "
+"FC Vestsjælland",61.5555555555556,"Danish Superliga "
+"FC Zürich",69.4583333333333,"Swiss Super League "
+"Fenerbahçe SK",76.3478260869565,"Turkish Süper Lig "
+"Feyenoord",78.0816326530612,"Holland Eredivisie "
+"Finland",69.8571428571429,"International"
+"Fiorentina",79.3571428571429,"Italian Serie A "
+"FK Austria Wien",70.6907216494845,"Austrian Football Bundesliga "
+"FK Bodø/Glimt",67.6478873239437,"Norwegian Eliteserien "
+"FK Haugesund",69.0227272727273,"Norwegian Eliteserien "
+"Fleetwood Town",66.8811881188119,"English League One "
+"Fortaleza CEIF",67.7826086956522,"Colombian Liga Postobón "
+"Fortuna Düsseldorf",74.4747474747475,"German 1. Bundesliga "
+"Frosinone",70.7666666666667,"Italian Serie B "
+"FSV Frankfurt",69,"German 2. Bundesliga "
+"Fulham",75.8,"English League Championship "
+"Galatasaray SK",77.0714285714286,"Turkish Süper Lig "
+"Gaziantepspor",71.945945945946,"Turkish Süper Lig "
+"Gefle IF",65.325,"Swedish Allsvenskan "
+"Gençlerbirliği SK",72.0892857142857,"Turkish Süper Lig "
+"Genoa",76.6585365853659,"Italian Serie A "
+"Getafe CF",75.2,"Spain Primera Division "
+"GFC Ajaccio",69.2040816326531,"French Ligue 2 "
+"Gil Vicente FC",71.25,"Portuguese Liga ZON SAGRES "
+"Gillingham",67.039603960396,"English League One "
+"Gimnasia y Esgrima La Plata",70.6701030927835,"Argentina Primera División  "
+"Girona FC",73.52,"Spanish Segunda División "
+"GKS Bełchatów",64.3846153846154,"Polish T-Mobile Ekstraklasa "
+"Go Ahead Eagles",69.84375,"Holland Eredivisie "
+"Godoy Cruz",70.4583333333333,"Argentina Primera División  "
+"Górnik Łęczna",63.375,"Polish T-Mobile Ekstraklasa "
+"Górnik Zabrze",67.9444444444444,"Polish T-Mobile Ekstraklasa "
+"Granada CF",75,"Spain Primera Division "
+"Grasshopper Club Zürich",70.3493975903614,"Swiss Super League "
+"Greece",75.875,"International"
+"Guadalajara",72.5666666666667,"Mexican Liga MX "
+"Gyeongnam FC",66.7777777777778,"Korean K League Classic "
+"Hajer",61.0666666666667,"Saudi Abdul L. Jameel League "
+"Hamburger SV",76.3300970873786,"German 2. Bundesliga "
+"Hamilton Academical FC",66.5742574257426,"Scottish Premiership "
+"Hannover 96",74.7319587628866,"German 2. Bundesliga "
+"Hartlepool United",64.38,"English League Two "
+"Hellas Verona",74.5833333333333,"Italian Serie A "
+"Helsingborgs IF",68.9166666666667,"Swedish Allsvenskan "
+"Heracles Almelo",71.2385321100917,"Holland Eredivisie "
+"Hertha BSC",78.7727272727273,"German 1. Bundesliga "
+"Hobro IK",65.5272727272727,"Danish Superliga "
+"Houston Dynamo",69.078125,"USA Major League Soccer "
+"Huddersfield Town",72.9428571428571,"English League Championship "
+"Hull City",73.6021505376344,"English League Championship "
+"Hungary",73.7692307692308,"International"
+"IF Brommapojkarna",66.0666666666667,"Swedish Allsvenskan "
+"IF Elfsborg",67.7012987012987,"Swedish Allsvenskan "
+"IFK Göteborg",70.3484848484848,"Swedish Allsvenskan "
+"IFK Norrköping",69.4555555555555,"Swedish Allsvenskan "
+"IK Start",68.1272727272727,"Norwegian Eliteserien "
+"Incheon United FC",66.6285714285714,"Korean K League Classic "
+"Independiente",75.4050632911392,"Argentina Primera División  "
+"Independiente Medellín",71.75,"Colombian Liga Postobón "
+"Independiente Santa Fe",71.9285714285714,"Colombian Liga Postobón "
+"India",64.4285714285714,"International"
+"Inter",79.9733333333333,"Italian Serie A "
+"Ipswich Town",74.1411764705882,"English League One "
+"Jagiellonia Białystok",67.5696202531646,"Polish T-Mobile Ekstraklasa "
+"Jaguares de Chiapas",69.0666666666667,"Mexican Liga MX "
+"Jeju United FC",67.2950819672131,"Korean K League Classic "
+"Jeonbuk Hyundai Motors",70.390243902439,"Korean K League Classic "
+"Jeonnam Dragons",68.5967741935484,"Korean K League Classic "
+"Junior FC",72.8461538461538,"Colombian Liga Postobón "
+"Juventus",83.4310344827586,"Italian Serie A "
+"KAA Gent",76.3373493975904,"Belgian Jupiler Pro League "
+"Kaizer Chiefs",71.0408163265306,"South African Premier Division "
+"Kalmar FF",68.2948717948718,"Swedish Allsvenskan "
+"Kardemir Karabükspor",69.2173913043478,"Turkish Süper Lig "
+"Karlsruher SC",70.5444444444445,"German 2. Bundesliga "
+"Kasimpaşa SK",70.6031746031746,"Turkish Süper Lig "
+"Kilmarnock",69.348623853211,"Scottish Premiership "
+"Korona Kielce",66.9722222222222,"Polish T-Mobile Ekstraklasa "
+"KRC Genk",76.8771929824561,"Belgian Jupiler Pro League "
+"KSV Cercle Brugge",71.44,"Belgian Jupiler Pro League "
+"Kuban Krasnodar",70.5882352941177,"Russian Premier League "
+"KV Kortrijk",71.0441176470588,"Belgian Jupiler Pro League "
+"KV Mechelen",72.0843373493976,"Belgian Jupiler Pro League "
+"KV Oostende",72.0972222222222,"Belgian Jupiler Pro League "
+"La Berrichonne de Châteauroux",69.3333333333333,"French Ligue 2 "
+"La Equidad",69.2463768115942,"Colombian Liga Postobón "
+"LA Galaxy",71.0169491525424,"USA Major League Soccer "
+"Latina",69.8378378378378,"Italian Serie B "
+"Lazio",79.7021276595745,"Italian Serie A "
+"Le Havre AC",70.7115384615385,"French Ligue 2 "
+"Lech Poznań",72.9393939393939,"Polish T-Mobile Ekstraklasa "
+"Lechia Gdańsk",71.8735632183908,"Polish T-Mobile Ekstraklasa "
+"Leeds United",75.0485436893204,"English League Championship "
+"Legia Warszawa",71.4736842105263,"Polish T-Mobile Ekstraklasa "
+"Leicester City",76.9891304347826,"English Premier League "
+"Leones Negros de la UdeG",66.8571428571429,"Mexican Liga MX "
+"Levante UD",76.1411764705882,"Spain Primera Division "
+"Leyton Orient",65.2264150943396,"English League Two "
+"Lillestrøm SK",68.8915662650602,"Norwegian Eliteserien "
+"Limerick FC",61.2105263157895,"Rep. Ireland Airtricity League "
+"Liverpool",80.8425925925926,"English Premier League "
+"Livorno",68.7457627118644,"Italian Serie B "
+"Lokomotiv Moscow",74.5769230769231,"Russian Premier League "
+"LOSC Lille",78.1621621621622,"French Ligue 1 "
+"Luton Town",66.8823529411765,"English League Championship "
+"Málaga CF",76.3846153846154,"Spanish Segunda División "
+"Malmö FF",71.8974358974359,"Swedish Allsvenskan "
+"Manchester City",81.7525773195876,"English Premier League "
+"Manchester United",81.59375,"English Premier League "
+"Mansfield Town",68.0119047619048,"English League Two "
+"Medipol Başakşehir FK",74.2941176470588,"Turkish Süper Lig "
+"Melbourne City FC",68.5645161290323,"Australian Hyundai A-League "
+"Melbourne Victory",67.3454545454545,"Australian Hyundai A-League "
+"Mersin İdman Yurdu",65.2857142857143,"Turkish Süper Lig "
+"Middlesbrough",74.1162790697674,"English League Championship "
+"Milan",82.974025974026,"Italian Serie A "
+"Millwall",68.7471264367816,"English League Championship "
+"Milton Keynes Dons",70.6633663366337,"English League One "
+"Mjällby AIF",64.5294117647059,"Swedish Allsvenskan "
+"Molde FK",72.8461538461538,"Norwegian Eliteserien "
+"Monarcas Morelia",70.8421052631579,"Mexican Liga MX "
+"Monterrey",72.9367088607595,"Mexican Liga MX "
+"Montpellier HSC",75.3414634146341,"French Ligue 1 "
+"Montreal Impact",69.3698630136986,"USA Major League Soccer "
+"Mordovia Saransk",68.5,"Russian Premier League "
+"Morecambe",63.7058823529412,"English League Two "
+"Moreirense FC",73.7435897435897,"Portuguese Liga ZON SAGRES "
+"Motherwell",68.0686274509804,"Scottish Premiership "
+"NAC Breda",71.6071428571429,"Holland Eredivisie "
+"Najran SC",61.6333333333333,"Saudi Abdul L. Jameel League "
+"Napoli",79.328125,"Italian Serie A "
+"Netherlands",82,"International"
+"New England Revolution",69.983606557377,"USA Major League Soccer "
+"New York Red Bulls",70.775,"USA Major League Soccer "
+"New Zealand",67,"International"
+"Newcastle Jets",66.6666666666667,"Australian Hyundai A-League "
+"Newcastle United",77.6494845360825,"English Premier League "
+"Newell's Old Boys",72.8589743589744,"Argentina Primera División  "
+"Newport County",66.0945945945946,"English League Two "
+"Nîmes Olympique",70.5106382978723,"French Ligue 1 "
+"Northampton Town",66.2405063291139,"English League Two "
+"Norwich City",75.5428571428571,"English Premier League "
+"Nottingham Forest",76,"English League Championship "
+"Notts County",68.2258064516129,"English League Two "
+"Odds BK",70.7402597402597,"Norwegian Eliteserien "
+"Odense Boldklub",68.6024096385542,"Danish Superliga "
+"OGC Nice",76.9097744360902,"French Ligue 1 "
+"Oldham Athletic",68.6170212765958,"English League Two "
+"Olympiacos CFP",77.6428571428571,"Greek Super League "
+"Olympique de Marseille",77.2608695652174,"French Ligue 1 "
+"Olympique Lyonnais",79.2635658914729,"French Ligue 1 "
+"Once Caldas",70.7397260273973,"Colombian Liga Postobón "
+"Örebro SK",66.1369863013699,"Swedish Allsvenskan "
+"Orlando Pirates",71.0816326530612,"South African Premier Division "
+"Os Belenenses",74.2266666666667,"Portuguese Liga ZON SAGRES "
+"Oxford United",69.3404255319149,"English League One "
+"Pachuca",73.6666666666667,"Mexican Liga MX "
+"Palermo",74.8356164383562,"Italian Serie B "
+"Panathinaikos FC",74.3222222222222,"Greek Super League "
+"PAOK",75.484375,"Greek Super League "
+"Paraguay",74.8,"International"
+"Paris Saint-Germain",82.0869565217391,"French Ligue 1 "
+"Parma",73.7142857142857,"Italian Serie A "
+"Patriotas Boyacá FC",68.75,"Colombian Liga Postobón "
+"PEC Zwolle",73.5137614678899,"Holland Eredivisie "
+"Perth Glory",67.3684210526316,"Australian Hyundai A-League "
+"Peru",71.8,"International"
+"Perugia",70.8247422680412,"Italian Serie B "
+"Pescara",73.3142857142857,"Italian Serie B "
+"Peterborough United",69.8306451612903,"English League One "
+"PFC CSKA Moscow",75.4625,"Russian Premier League "
+"Philadelphia Union",70.2027027027027,"USA Major League Soccer "
+"Piast Gliwice",67.0789473684211,"Polish T-Mobile Ekstraklasa "
+"Plymouth Argyle",68.1410256410256,"English League Two "
+"Podbeskidzie Bielsko-Biała",64.1904761904762,"Polish T-Mobile Ekstraklasa "
+"Pogoń Szczecin",69.3863636363636,"Polish T-Mobile Ekstraklasa "
+"Pohang Steelers",70,"Korean K League Classic "
+"Poland",77,"International"
+"Port Vale",66.4025974025974,"English League Two "
+"Portland Timbers",70.2388059701493,"USA Major League Soccer "
+"Portsmouth",70.1827956989247,"English League One "
+"Preston North End",72.4878048780488,"English League Championship "
+"PSV",79.8045112781955,"Holland Eredivisie "
+"Puebla FC",68.6888888888889,"Mexican Liga MX "
+"Queens Park Rangers",73.2391304347826,"English League Championship "
+"Querétaro",69.6527777777778,"Mexican Liga MX "
+"Quilmes Atlético Club",68.8913043478261,"Argentina Primera División  "
+"Racing Club",75.1449275362319,"Argentina Primera División  "
+"Racing Club de Lens",72.054347826087,"French Ligue 2 "
+"Racing Santander",68.12,"Spanish Segunda División "
+"Randers FC",68.5116279069767,"Danish Superliga "
+"Rangers FC",73.7575757575758,"Scottish Premiership "
+"Rayo Vallecano",74.8271604938272,"Spanish Segunda División "
+"RB Leipzig",77.9444444444444,"German 1. Bundesliga "
+"RC Celta",77.112,"Spain Primera Division "
+"RCD Espanyol",75.7078651685393,"Spain Primera Division "
+"RCD Mallorca",72.2463768115942,"Spain Primera Division "
+"Reading",74.4736842105263,"English League Championship "
+"Real Betis",76.9871794871795,"Spain Primera Division "
+"Real Madrid",81.7619047619048,"Spain Primera Division "
+"Real Salt Lake",69.85,"USA Major League Soccer "
+"Real Sociedad",77.5700934579439,"Spain Primera Division "
+"Real Sporting de Gijón",74.8144329896907,"Spanish Segunda División "
+"Real Valladolid CF",75.7634408602151,"Spain Primera Division "
+"Real Zaragoza",73.89,"Spanish Segunda División "
+"Rio Ave FC",73.504854368932,"Portuguese Liga ZON SAGRES "
+"Rionegro Águilas",69.0172413793103,"Colombian Liga Postobón "
+"River Plate",77.2432432432432,"Argentina Primera División  "
+"Rochdale",68.5568181818182,"English League One "
+"Roma",80.8,"Italian Serie A "
+"Romania",76.6666666666667,"International"
+"Rosario Central",71.2073170731707,"Argentina Primera División  "
+"Rosenborg BK",72.9358974358974,"Norwegian Eliteserien "
+"Ross County FC",67.3166666666667,"Scottish Premiership "
+"Rotherham United",71.2592592592593,"English League One "
+"Royal Excel Mouscron",70.7927927927928,"Belgian Jupiler Pro League "
+"RSC Anderlecht",78.3152173913043,"Belgian Jupiler Pro League "
+"Rubin Kazan",74.5660377358491,"Russian Premier League "
+"Sampdoria",76.6813186813187,"Italian Serie A "
+"San Jose Earthquakes",69.6290322580645,"USA Major League Soccer "
+"San Lorenzo de Almagro",75.3116883116883,"Argentina Primera División  "
+"Sandnes Ulf",66.0909090909091,"Norwegian Eliteserien "
+"Sangju Sangmu FC",64.8571428571429,"Korean K League Classic "
+"Santiago Wanderers",68.3703703703704,"Chilian Campeonato Nacional "
+"Santos Laguna",72.010752688172,"Mexican Liga MX "
+"Sarpsborg 08 FF",68.655737704918,"Norwegian Eliteserien "
+"Sassuolo",78.379746835443,"Italian Serie A "
+"SC Braga",77.7765957446808,"Portuguese Liga ZON SAGRES "
+"SC Freiburg",74.8173076923077,"German 1. Bundesliga "
+"SC Heerenveen",74.260162601626,"Holland Eredivisie "
+"SC Paderborn 07",70.0975609756098,"German 1. Bundesliga "
+"SC Wiener Neustadt",64,"Austrian Football Bundesliga "
+"SCR Altach",67.5147058823529,"Austrian Football Bundesliga "
+"Scunthorpe United",67.4042553191489,"English League Two "
+"SD Eibar",75.4074074074074,"Spain Primera Division "
+"SD Ponferradina",69.7037037037037,"Spanish Segunda División "
+"Seattle Sounders FC",70.3333333333333,"USA Major League Soccer "
+"Sevilla FC",77.2207792207792,"Spain Primera Division "
+"Shakhtar Donetsk",79.5,"Ukrainian Premier League "
+"Shamrock Rovers",66.8607594936709,"Rep. Ireland Airtricity League "
+"Sheffield United",71.6455696202532,"English Premier League "
+"Sheffield Wednesday",73.1428571428571,"English League Championship "
+"Shrewsbury",71.0681818181818,"English League One "
+"Silkeborg IF",67.7460317460317,"Danish Superliga "
+"Sivasspor",69.5106382978723,"Turkish Süper Lig "
+"SK Brann",68.9387755102041,"Norwegian Eliteserien "
+"SK Rapid Wien",72.302752293578,"Austrian Football Bundesliga "
+"SK Sturm Graz",70.5180722891566,"Austrian Football Bundesliga "
+"SL Benfica",82.5,"Portuguese Liga ZON SAGRES "
+"Sligo Rovers",63.9418604651163,"Rep. Ireland Airtricity League "
+"Slovenia",73.6666666666667,"International"
+"SønderjyskE",67.2615384615385,"Danish Superliga "
+"South Africa",75.4583333333333,"International"
+"Southampton",77.5625,"English Premier League "
+"Southend United",68.7792207792208,"English League One "
+"Spartak Moscow",77.3777777777778,"Russian Premier League "
+"Spezia",70.6847826086957,"Italian Serie B "
+"Sporting CP",81.4512195121951,"Portuguese Liga ZON SAGRES "
+"Sporting Kansas City",70.4354838709677,"USA Major League Soccer "
+"Sporting Lokeren",72.5072463768116,"Belgian Jupiler Pro League "
+"SpVgg Greuther Fürth",71.9449541284404,"German 2. Bundesliga "
+"SS Virtus Lanciano",67.1481481481482,"Italian Serie B "
+"St. Johnstone FC",67.3888888888889,"Scottish Premiership "
+"St. Mirren",69.0217391304348,"Scottish Premiership "
+"St. Patrick's Athletic",64.9411764705882,"Rep. Ireland Airtricity League "
+"Stabæk Fotball",70.5188679245283,"Norwegian Eliteserien "
+"Stade Brestois 29",72.3974358974359,"French Ligue 1 "
+"Stade de Reims",73.9204545454545,"French Ligue 1 "
+"Stade Rennais FC",76.7634408602151,"French Ligue 1 "
+"Standard de Liège",76.0842105263158,"Belgian Jupiler Pro League "
+"Stevenage",66,"English League Two "
+"Stoke City",76.7246376811594,"English League Championship "
+"Strømsgodset IF",71.3164556962025,"Norwegian Eliteserien "
+"Sunderland",74.1931818181818,"English League One "
+"Suwon Samsung Bluewings",69.6612903225806,"Korean K League Classic "
+"SV Darmstadt 98",70.9523809523809,"German 2. Bundesliga "
+"SV Grödig",65.5405405405405,"Austrian Football Bundesliga "
+"SV Sandhausen",70.5194805194805,"German 2. Bundesliga "
+"SV Werder Bremen",77.2359550561798,"German 1. Bundesliga "
+"SV Zulte-Waregem",72.8965517241379,"Belgian Jupiler Pro League "
+"Swansea City",75.0744680851064,"English League Championship "
+"Sweden",79,"International"
+"Swindon Town",64.7560975609756,"English League Two "
+"Switzerland",76,"International"
+"Sydney FC",67.3728813559322,"Australian Hyundai A-League "
+"Terek Grozny",71.1458333333333,"Russian Premier League "
+"Ternana",71.1216216216216,"Italian Serie B "
+"Tiburones Rojos de Veracruz",68.8913043478261,"Mexican Liga MX "
+"Tigres U.A.N.L.",72.156862745098,"Mexican Liga MX "
+"Toronto FC",69.7,"USA Major League Soccer "
+"Torpedo Moscow",61.3333333333333,"Russian Premier League "
+"Tottenham Hotspur",80.0683760683761,"English Premier League "
+"Toulouse Football Club",76.3478260869565,"French Ligue 1 "
+"Tours FC",69.6,"French Ligue 2 "
+"Trabzonspor",75.975,"Turkish Süper Lig "
+"Tranmere Rovers",66.1707317073171,"English League One "
+"Trapani",70.6744186046512,"Italian Serie B "
+"TSG 1899 Hoffenheim",78.8791208791209,"German 1. Bundesliga "
+"TSV 1860 München",70.5942028985507,"German 3. Bundesliga "
+"U.N.A.M.",71.7222222222222,"Mexican Liga MX "
+"UCD AFC",61.7073170731707,"Rep. Ireland Airtricity League "
+"UD Almería",72.6206896551724,"Spanish Segunda División "
+"UD Las Palmas",73.8194444444444,"Spanish Segunda División "
+"Udinese",78.6422018348624,"Italian Serie A "
+"UE Llagostera",68.75,"Spanish Segunda División "
+"Ulsan Hyundai FC",70.2452830188679,"Korean K League Classic "
+"Unión Española",70.027397260274,"Chilian Campeonato Nacional "
+"Unión La Calera",68.3714285714286,"Chilian Campeonato Nacional "
+"Universidad Católica",72.6818181818182,"Chilian Campeonato Nacional "
+"Universidad de Chile",74.2741935483871,"Chilian Campeonato Nacional "
+"Valencia CF",79.7272727272727,"Spain Primera Division "
+"Valenciennes FC",69.8762886597938,"French Ligue 2 "
+"Vålerenga Fotball",70.6923076923077,"Norwegian Eliteserien "
+"Varese",65.5882352941177,"Italian Serie B "
+"Vélez Sarsfield",73.109243697479,"Argentina Primera División  "
+"VfB Stuttgart",77.78,"German 2. Bundesliga "
+"VfL Bochum 1848",72.2696629213483,"German 2. Bundesliga "
+"VfL Wolfsburg",78.4516129032258,"German 1. Bundesliga "
+"VfR Aalen",68.5681818181818,"German 3. Bundesliga "
+"Vicenza",68.6206896551724,"Italian Serie B "
+"Viking FK",69.6081081081081,"Norwegian Eliteserien "
+"Villarreal CF",77.304347826087,"Spain Primera Division "
+"Virtus Entella",69.1833333333333,"Italian Serie B "
+"Vitesse",75.9647058823529,"Holland Eredivisie "
+"Vitória de Setúbal",73.4494382022472,"Portuguese Liga ZON SAGRES "
+"Vitória Guimarães",75.6902654867257,"Portuguese Liga ZON SAGRES "
+"Waasland-Beveren",71.2410714285714,"Belgian Jupiler Pro League "
+"Walsall",69.5478260869565,"English League Two "
+"Watford",77.3559322033898,"English Premier League "
+"West Bromwich Albion",74.0789473684211,"English League Championship "
+"West Ham United",74.7816091954023,"English Premier League "
+"Wigan Athletic",73.1818181818182,"English League Championship "
+"Willem II",72.1919191919192,"Holland Eredivisie "
+"Wisła Kraków",68.6619718309859,"Polish T-Mobile Ekstraklasa "
+"Wolfsberger AC",67.5172413793103,"Austrian Football Bundesliga "
+"Wolverhampton Wanderers",75.5897435897436,"English Premier League "
+"Wycombe Wanderers",67.6111111111111,"English League One "
+"Yeovil Town",67.3289473684211,"English League Two "
+"Aarhus GF",68.9054054054054,"Danish Superliga "
+"Al Qadisiyah",64.3521126760563,"Saudi Abdul L. Jameel League "
+"Al Wehda",67.1632653061225,"Saudi Abdul L. Jameel League "
+"Antalyaspor",72.6666666666667,"Turkish Süper Lig "
+"Argentinos Juniors",71.3538461538461,"Argentina Primera División  "
+"Ascoli",71.6716417910448,"Italian Serie B "
+"Bilbao Athletic",76.92,"Spanish Segunda División "
+"Bristol Rovers",66.3424657534247,"English League One "
+"Bruk-Bet Termalica Nieciecza",66,"Polish T-Mobile Ekstraklasa "
+"Canada",69.5555555555556,"International"
+"CD Tondela",74.5074626865672,"Portuguese Liga ZON SAGRES "
+"Chile",83,"International"
+"China PR",71.3333333333333,"International"
+"Club Atlético Aldosivi",70.8857142857143,"Argentina Primera División  "
+"Club Atlético Colón",72.1538461538462,"Argentina Primera División  "
+"Club Atlético Huracán",72.1666666666667,"Argentina Primera División  "
+"Club Atlético Sarmiento",69.04,"Argentina Primera División  "
+"Club Atlético Temperley",68.5897435897436,"Argentina Primera División  "
+"Cortuluá",68.6037735849057,"Colombian Liga Postobón "
+"Crucero del Norte",64.3,"Argentina Primera División  "
+"Cúcuta Deportivo",66.2222222222222,"Colombian Liga Postobón "
+"Dorados de Sinaloa",66.6,"Mexican Liga MX "
+"DSC Arminia Bielefeld",72.6666666666667,"German 2. Bundesliga "
+"FC Anzhi Makhachkala",72.1162790697674,"Russian Premier League "
+"FC Lugano",70,"Swiss Super League "
+"Fluminense",69.6666666666667,"Campeonato Brasileiro Série A "
+"Football Bourg En Bresse Peronnas 01",69.7777777777778,"French Ligue 2 "
+"Gimnàstic de Tarragona",75.2631578947368,"Spanish Segunda División "
+"GwangJu FC",66.1702127659574,"Korean K League Classic "
+"Hammarby IF",68.7173913043478,"Swedish Allsvenskan "
+"Heart of Midlothian",72.4230769230769,"Scottish Premiership "
+"Jaguares de Córdoba",68.0196078431373,"Colombian Liga Postobón "
+"Kayserispor",72.7021276595745,"Turkish Süper Lig "
+"Krylya Sovetov Samara",71.3181818181818,"Russian Premier League "
+"Mjøndalen IF",67.0526315789474,"Norwegian Eliteserien "
+"MSV Duisburg",71,"German 3. Bundesliga "
+"NEC Nijmegen",72.75,"Holland Eredivisie "
+"New York City FC",72.5272727272727,"USA Major League Soccer "
+"Novara",68.1388888888889,"Italian Serie B "
+"Nueva Chicago",65.8181818181818,"Argentina Primera División  "
+"Orlando City SC",71.5238095238095,"USA Major League Soccer "
+"Osmanlıspor",74.125,"Turkish Süper Lig "
+"Paris FC",69.8205128205128,"French Ligue 2 "
+"Real Oviedo",74.0923076923077,"Spanish Segunda División "
+"Red Star FC",70.25,"French Ligue 2 "
+"Roda JC Kerkrade",71.3720930232558,"Holland Eredivisie "
+"San Luis de Quillota",68.7727272727273,"Chilian Campeonato Nacional "
+"San Martín de San Juan",68.45,"Argentina Primera División  "
+"SD Huesca",73.6153846153846,"Spanish Segunda División "
+"Sint-Truidense VV",72.1111111111111,"Belgian Jupiler Pro League "
+"SV Mattersburg",68.0967741935484,"Austrian Football Bundesliga "
+"Tromsø IL",69.7534246575343,"Norwegian Eliteserien "
+"União da Madeira",73.6923076923077,"Portuguese Liga ZON SAGRES "
+"Unión de Santa Fe",69.5633802816901,"Argentina Primera División  "
+"US Salernitana 1919",71.843137254902,"Italian Serie B "
+"AC Horsens",67.6734693877551,"Danish Superliga "
+"Adanaspor",71.1111111111111,"Turkish Süper Lig "
+"Al Batin",63.625,"Saudi Abdul L. Jameel League "
+"Alanyaspor",72.6857142857143,"Turkish Süper Lig "
+"Albirex Niigata",65.2857142857143,"Japanese J. League Division 1 "
+"América FC (Minas Gerais)",71.5,"Campeonato Brasileiro Série A "
+"Amiens SC",72.7966101694915,"French Ligue 1 "
+"Argentina",85,"International"
+"Arka Gdynia",67.7714285714286,"Polish T-Mobile Ekstraklasa "
+"Atlético Bucaramanga",70.075,"Colombian Liga Postobón "
+"Atlético Mineiro",68.4545454545455,"Campeonato Brasileiro Série A "
+"Atlético Tucumán",71.7368421052632,"Argentina Primera División  "
+"Avaí FC",70,"Campeonato Brasileiro Série A "
+"Avispa Fukuoka",66,"Japanese J. League Division 1 "
+"Benevento",73.6428571428571,"Italian Serie B "
+"Botafogo",69.7777777777778,"Campeonato Brasileiro Série A "
+"Cádiz CF",72.9387755102041,"Spanish Segunda División "
+"CD Everton de Viña del Mar",69.7441860465116,"Chilian Campeonato Nacional "
+"CD Feirense",73.2727272727273,"Portuguese Liga ZON SAGRES "
+"CF Reus Deportiu",73.3333333333333,"Spanish Segunda División "
+"Chapecoense",65.8,"Campeonato Brasileiro Série A "
+"Club Atlético Talleres",73.1621621621622,"Argentina Primera División  "
+"Club Deportes Temuco",68.6666666666667,"Chilian Campeonato Nacional "
+"Club Necaxa",71.3777777777778,"Mexican Liga MX "
+"Coritiba",70.9,"Campeonato Brasileiro Série A "
+"Criciúma",71.2,"Campeonato Brasileiro Série B "
+"Cruzeiro",70,"Campeonato Brasileiro Série A "
+"Ettifaq FC",67.3870967741936,"Saudi Abdul L. Jameel League "
+"FC Lausanne-Sport",67.7666666666667,"Swiss Super League "
+"FC Orenburg",67,"Russian Premier League "
+"FC Tokyo",69,"Japanese J. League Division 1 "
+"FC Tom Tomsk",70,"Russian Premier League "
+"FC Würzburger Kickers",69.3846153846154,"German 3. Bundesliga "
+"Figueirense",72.3333333333333,"Campeonato Brasileiro Série A "
+"Finn Harps",63.1538461538462,"Rep. Ireland Airtricity League "
+"Gamba Osaka",68.8166666666667,"Japanese J. League Division 1 "
+"Goiás",70.25,"Campeonato Brasileiro Série A "
+"Grêmio",70.7777777777778,"Campeonato Brasileiro Série A "
+"Grimsby Town",65.3518518518518,"English League Two "
+"HJK Helsinki",70.6615384615385,"Finnish Veikkausliiga "
+"Internacional",70.1428571428571,"Campeonato Brasileiro Série A "
+"Joinville",68.4,"Campeonato Brasileiro Série B "
+"Jönköpings Södra IF",68.0416666666667,"Swedish Allsvenskan "
+"Júbilo Iwata",67.1,"Japanese J. League Division 1 "
+"KAS Eupen",73.2575757575758,"Belgian Jupiler Pro League "
+"Kashima Antlers",72.551724137931,"Japanese J. League Division 1 "
+"Kashiwa Reysol",71.0731707317073,"Japanese J. League Division 1 "
+"Kawasaki Frontale",70.2972972972973,"Japanese J. League Division 1 "
+"Lyngby BK",68.0645161290323,"Danish Superliga "
+"Nagoya Grampus",67.1944444444444,"Japanese J. League Division 1 "
+"Omiya Ardija",66.1904761904762,"Japanese J. League Division 1 "
+"Östersunds FK",69.5925925925926,"Swedish Allsvenskan "
+"Palmeiras",69.5,"Campeonato Brasileiro Série A "
+"Patronato",70.3870967741936,"Argentina Primera División  "
+"Pisa",71,"Italian Serie B "
+"Ponte Preta",73.8,"Campeonato Brasileiro Série A "
+"RC Strasbourg Alsace",74.265306122449,"French Ligue 1 "
+"Sagan Tosu",67.2,"Japanese J. League Division 1 "
+"Sanfrecce Hiroshima",69.375,"Japanese J. League Division 1 "
+"Santa Cruz",69.6666666666667,"Campeonato Brasileiro Série A "
+"Santos",72.25,"Campeonato Brasileiro Série A "
+"São Paulo",68,"Campeonato Brasileiro Série A "
+"Sevilla Atlético",76.3272727272727,"Spanish Segunda División "
+"SG Dynamo Dresden",74.1694915254237,"German 2. Bundesliga "
+"SKN St. Pölten",67.28,"Austrian Football Bundesliga "
+"SPAL",74.9636363636364,"Italian Serie A "
+"Sparta Rotterdam",72.3962264150943,"Holland Eredivisie "
+"Sport Club do Recife",73,"Campeonato Brasileiro Série A "
+"Suwon FC",67,"Korean K League Classic "
+"UCAM Murcia CF",68,"Spanish Segunda División "
+"Urawa Red Diamonds",68.9565217391304,"Japanese J. League Division 1 "
+"Vegalta Sendai",66.8157894736842,"Japanese J. League Division 1 "
+"Ventforet Kofu",66.3,"Japanese J. League Division 1 "
+"Vissel Kobe",67.2380952380952,"Japanese J. League Division 1 "
+"Vitória",72.5,"Campeonato Brasileiro Série A "
+"Wexford Youths",61.1875,"Rep. Ireland Airtricity League "
+"Wisła Płock",67.3265306122449,"Polish T-Mobile Ekstraklasa "
+"Yokohama F. Marinos",68.3469387755102,"Japanese J. League Division 1 "
+"1. FC Magdeburg",71.4883720930233,"German 3. Bundesliga "
+"AEK Athens",75.4117647058823,"Greek Super League "
+"AFC Eskilstuna",66.2258064516129,"Swedish Allsvenskan "
+"Al Fayha",69.5217391304348,"Saudi Abdul L. Jameel League "
+"América de Cali",70.8571428571429,"Colombian Liga Postobón "
+"Atlanta United",74.8260869565217,"USA Major League Soccer "
+"CD Aves",73.6470588235294,"Portuguese Liga ZON SAGRES "
+"Cerezo Osaka",67.1538461538462,"Japanese J. League Division 1 "
+"Chacarita Juniors",69.4761904761905,"Argentina Primera División  "
+"Chemnitzer FC",67.8518518518518,"German 3. Bundesliga "
+"Curicó Unido",68.05,"Chilian Campeonato Nacional "
+"Daegu FC",70,"Korean K League Classic "
+"FC Carl Zeiss Jena",68.7037037037037,"German 3. Bundesliga "
+"FC Hansa Rostock",70.390243902439,"German 3. Bundesliga "
+"FC Helsingør",67.7777777777778,"Danish Superliga "
+"FC Rot-Weiß Erfurt",68.4117647058823,"German 3. Bundesliga "
+"FC Tosno",71,"Russian Premier League "
+"Foggia",69.1,"Italian Serie B "
+"Forest Green Rovers",68.4081632653061,"English League Two "
+"FSV Zwickau",69.1891891891892,"German 3. Bundesliga "
+"Gangwon FC",67.875,"Korean K League Classic "
+"Göztepe SK",70.6785714285714,"Turkish Süper Lig "
+"Hallescher FC",69.3555555555556,"German 3. Bundesliga "
+"Hibernian",72.6333333333333,"Scottish Premiership "
+"Hokkaido Consadole Sapporo",67.3928571428571,"Japanese J. League Division 1 "
+"Holstein Kiel",72.3076923076923,"German 2. Bundesliga "
+"Iceland",72,"International"
+"IK Sirius",66.5161290322581,"Swedish Allsvenskan "
+"Kristiansund BK",67.8076923076923,"Norwegian Eliteserien "
+"LASK Linz",70.9285714285714,"Austrian Football Bundesliga "
+"Lincoln City",70.2368421052632,"English League One "
+"Lobos BUAP",70.8947368421053,"Mexican Liga MX "
+"Minnesota United FC",68.2857142857143,"USA Major League Soccer "
+"Ohod Club",64.7407407407407,"Saudi Abdul L. Jameel League "
+"Portimonense SC",75.1607142857143,"Portuguese Liga ZON SAGRES "
+"Royal Antwerp FC",74.6315789473684,"Belgian Jupiler Pro League "
+"Sandecja Nowy Sącz",65.3636363636364,"Polish T-Mobile Ekstraklasa "
+"SC Fortuna Köln",68.12,"German 3. Bundesliga "
+"SC Preußen Münster",70.2340425531915,"German 3. Bundesliga "
+"SG Sonnenhof Großaspach",69.5227272727273,"German 3. Bundesliga "
+"Shimizu S-Pulse",68.0625,"Japanese J. League Division 1 "
+"SKA Khabarovsk",66.5454545454545,"Russian Premier League "
+"Sparta Praha",76.8846153846154,"Czech Republic Gambrinus Liga "
+"SpVgg Unterhaching",68.4565217391304,"German 3. Bundesliga "
+"SV Meppen",66.45,"German 3. Bundesliga "
+"SV Wehen Wiesbaden",70.5217391304348,"German 2. Bundesliga "
+"SV Werder Bremen II",71.5454545454545,"German 3. Bundesliga "
+"Tigres FC",68.3333333333333,"Colombian Liga Postobón "
+"US Cremonese",71.9166666666667,"Italian Serie B "
+"US Quevilly Rouen Métropole",68.2142857142857,"French Ligue 2 "
+"Venezia FC",70.5952380952381,"Italian Serie B "
+"VfL Osnabrück",70.7631578947368,"German 2. Bundesliga "
+"VfL Sportfreunde Lotte",68.4583333333333,"German 3. Bundesliga "
+"VVV-Venlo",72.3181818181818,"Holland Eredivisie "
+"Wales",75,"International"
+"Al Hazem",66.5294117647059,"Saudi Abdul L. Jameel League "
+"AS Béziers",66.6363636363636,"French Ligue 2 "
+"Beijing Renhe FC",61.875,"Chinese Super League "
+"Beijing Sinobo Guoan FC",68,"Chinese Super League "
+"CF Rayo Majadahonda",74.7692307692308,"Spanish Segunda División "
+"Changchun Yatai FC",63.1111111111111,"Chinese Super League "
+"Chongqing Dangdai Lifan FC SWM Team",63.5,"Chinese Super League "
+"Cosenza",72.8095238095238,"Italian Serie B "
+"Dalian YiFang FC",65.2380952380952,"Chinese Super League "
+"Dalkurd FF",67.1111111111111,"Swedish Allsvenskan "
+"Dinamo Zagreb",77.4827586206897,"Croatian Prva HNL "
+"Dynamo Kyiv",78.8928571428571,"Ukrainian Premier League "
+"Extremadura UD",72.4,"Spanish Segunda División "
+"FC Emmen",69.9714285714286,"Holland Eredivisie "
+"FC Energie Cottbus",69.3333333333333,"German 3. Bundesliga "
+"FC Wacker Innsbruck",67.7058823529412,"Austrian Football Bundesliga "
+"Fortuna Sittard",72.7142857142857,"Holland Eredivisie "
+"Grenoble Foot 38",69.55,"French Ligue 2 "
+"Guangzhou Evergrande Taobao FC",68.0434782608696,"Chinese Super League "
+"Guangzhou R&F FC",64.0555555555556,"Chinese Super League "
+"Hebei China Fortune FC",65.4166666666667,"Chinese Super League "
+"Henan Jianye FC",66.6470588235294,"Chinese Super League "
+"Itagüí Leones FC",69.5,"Colombian Liga Postobón "
+"Jiangsu Suning FC",63.3913043478261,"Chinese Super League "
+"KFC Uerdingen 05",70.7647058823529,"German 3. Bundesliga "
+"Lecce",68.6842105263158,"Italian Serie A "
+"Livingston FC",69.5769230769231,"Scottish Premiership "
+"Los Angeles FC",74.9047619047619,"USA Major League Soccer "
+"Macclesfield Town",66.6538461538462,"English League Two "
+"Miedź Legnica",67.8888888888889,"Polish T-Mobile Ekstraklasa "
+"MKE Ankaragücü",67.4444444444444,"Turkish Süper Lig "
+"Neuchâtel Xamax",68.7647058823529,"Swiss Super League "
+"Padova",75.8,"Italian Serie B "
+"Ranheim Fotball",66.4615384615385,"Norwegian Eliteserien "
+"San Martin de Tucumán",72.25,"Argentina Primera División  "
+"Santa Clara",73.0833333333333,"Portuguese Liga ZON SAGRES "
+"Shandong Luneng TaiShan FC",65.2777777777778,"Chinese Super League "
+"Shanghai Greenland Shenhua FC",65.9230769230769,"Chinese Super League "
+"Shanghai SIPG FC",64.8571428571429,"Chinese Super League "
+"SK Slavia Praha",75.6842105263158,"Czech Republic Gambrinus Liga "
+"Tianjin TEDA FC",61.5263157894737,"Chinese Super League "
+"TSV Hartberg",68.1111111111111,"Austrian Football Bundesliga "
+"V-Varen Nagasaki",65.8181818181818,"Japanese J. League Division 1 "
+"Viktoria Plzeň",72.4,"Czech Republic Gambrinus Liga "
+"Waterford FC",64.8709677419355,"Rep. Ireland Airtricity League "
+"Abha Club",65.2857142857143,"Saudi Abdul L. Jameel League "
+"Academica Clinceni",67.9285714285714,"Romanian Liga I "
+"Al Adalah",67,"Saudi Abdul L. Jameel League "
+"Al Ain FC",67.4615384615385,"UAE Arabian Gulf League "
+"Astra Giurgiu",70.5384615384615,"Romanian Liga I "
+"Atlético de San Luis",72.2222222222222,"Mexican Liga MX "
+"Bayern München II",74.0416666666667,"German 3. Bundesliga "
+"Castellammare di Stabia",69.6153846153846,"Italian Serie B "
+"Central Córdoba",70.1428571428571,"Argentina Primera División  "
+"CF Fuenlabrada",72.5,"Spanish Segunda División "
+"CFR Cluj",74.8333333333333,"Romanian Liga I "
+"Chindia Târgovişte",70.6666666666667,"Romanian Liga I "
+"Coquimbo Unido",70,"Chilian Campeonato Nacional "
+"Damac FC",65.2857142857143,"Saudi Abdul L. Jameel League "
+"Denizlispor",69.8,"Turkish Süper Lig "
+"Dinamo Bucureşti",72.6,"Romanian Liga I "
+"Famalicão",76.05,"Portuguese Liga ZON SAGRES "
+"FC Botoşani",68.6153846153846,"Romanian Liga I "
+"FC Chambly Oise",68.7142857142857,"French Ligue 2 "
+"FC Cincinnati",71,"USA Major League Soccer "
+"FC Hermannstadt",67.2857142857143,"Romanian Liga I "
+"FC Juárez",67.8333333333333,"Mexican Liga MX "
+"FC Viitorul",72.6111111111111,"Romanian Liga I "
+"FC Voluntari",68.7857142857143,"Romanian Liga I "
+"FCSB (Steaua)",76.5454545454545,"Romanian Liga I "
+"Gaz Metan Mediaş",68.25,"Romanian Liga I "
+"Gazişehir Gaziantep F.K.",67.4,"Turkish Süper Lig "
+"Le Mans FC",70.1111111111111,"French Ligue 2 "
+"LKS Lodz",65.3333333333333,"Polish T-Mobile Ekstraklasa "
+"Matsumoto Yamaga",63.8571428571429,"Japanese J. League Division 1 "
+"Oita Trinita",67.6666666666667,"Japanese J. League Division 1 "
+"Politehnica Iaşi",70.2857142857143,"Romanian Liga I "
+"Pordenone",72.8,"Italian Serie B "
+"Raków Częstochowa",69.5833333333333,"Polish T-Mobile Ekstraklasa "
+"RKC Waalwijk",69.2,"Holland Eredivisie "
+"Rodez Aveyron Football",67.75,"French Ligue 2 "
+"Salford City",66.8571428571429,"English League Two "
+"Sepsi OSK",70.5454545454545,"Romanian Liga I "
+"Servette FC",70,"Swiss Super League "
+"SV Waldhof Mannheim",67.0769230769231,"German 3. Bundesliga "
+"Unión Magdalena",68.8461538461538,"Colombian Liga Postobón "
+"Universitatea Craiova",73.5333333333333,"Romanian Liga I "
+"Viktoria Köln",69.7333333333333,"German 3. Bundesliga "
+"Western United FC",69.0909090909091,"Australian Hyundai A-League "
+"WSG Tirol",70.1111111111111,"Austrian Football Bundesliga "
+"Wuhan Zall",63.5,"Chinese Super League "
