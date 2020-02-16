@@ -141,8 +141,38 @@ mse.2 <- mean((prob.lm.2-fifa20[-train,]$avg_overall)^2, na.rm=T)
 #cat("\nMSE\n")
 mse.2
 
+#--------------------------------------------------------------------
+# Model 3: LASSO then OLS
+lasso.1 <- rlasso(formula , data = fifa20[train,], post = F)
+#cat("Do LASSO on training set\n")
+summary(lasso.1, all = F)
 
+# get ceoffs that matter and make OLS formula
+x <- which(coef(lasso.1)[-1]!=0)
+#cat("\nCount and Kept Significant Variables by LASSO\nCount: ")
+length(x)
+#x
+x <- paste(names(x), collapse = "+")
+formula2 <- paste(c("avg_overall", x), collapse = " ~ ")
 
+# name all extra variables created from doing OLS
+fifa20$preferred_footRight <- fifa20$preferred_foot == "Right"
+fifa20$nation_positionRB <- fifa20$nation_position == "RB"
 
+# OLS regression on training set
+olsLasso.1 <- lm(formula2, data = fifa20[train,])
+summary(olsLasso.1)
+#cat("\nDo OLS on training set using selected variables from LASSO\n")
+summary(olsLasso.1)$coefficients[,1]
+# prediction on test data to predict patient readmission or not
+prob.lasso.1 <- predict(olsLasso.1, newdata = fifa20[-train,])
+#cat("Predict on test set\n")
+summary(prob.lasso.1)
+#cat("\nCount remaining observations\n")
+length(na.omit(prob.lasso.1)) # count remaining observations
+# test error
+mse.3 <- mean((prob.lasso.1-fifa20[-train,]$avg_overall)^2, na.rm=T)
+#cat("\nMSE\n")
+mse.3
 
 
